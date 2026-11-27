@@ -1,2 +1,4 @@
 # Math-144 Personal Dataset Project
-Into
+Introduction & Motivation
+Data Cleaning & Processing
+Exploratory Data Analysis
